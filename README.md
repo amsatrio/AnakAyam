@@ -16,4 +16,4 @@ Note: This version is a free version, open source, and without ads.
 ## License
 
 - Anak Ayam Android Game: **[MIT license](http://opensource.org/licenses/mit-license.php)**
-- LibGDX License: **[CC0 license](https://creativecommons.org/publicdomain/zero/1.0/)**
+- LibGDX License: **[Apache 2.0 license](http://www.apache.org/licenses/LICENSE-2.0)**
